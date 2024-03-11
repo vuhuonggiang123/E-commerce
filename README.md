@@ -1,6 +1,7 @@
 # E-commercee
 **Sử dụng bigquery để query data từ data tracking lại hoạt động của 1 công ty E-commerce**
 **In this project, I will write 08 query in Bigquery base on Google Analytics dataset**
+
 Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)
 
 Query 02: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC)
