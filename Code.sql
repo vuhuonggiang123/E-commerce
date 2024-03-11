@@ -216,7 +216,3 @@ select
     round(num_purchase/num_product_view * 100, 2) as purchase_rate
 from product_data;
 
-
-
-
-                                                          ---good---
